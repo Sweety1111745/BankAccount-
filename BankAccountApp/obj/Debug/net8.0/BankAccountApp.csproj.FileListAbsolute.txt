@@ -1,0 +1,14 @@
+Z:\Desktop\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.exe
+Z:\Desktop\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.deps.json
+Z:\Desktop\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.runtimeconfig.json
+Z:\Desktop\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.dll
+Z:\Desktop\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.pdb
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.AssemblyInfoInputs.cache
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.AssemblyInfo.cs
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.csproj.CoreCompileInputs.cache
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.dll
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\refint\BankAccountApp.dll
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.pdb
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.genruntimeconfig.cache
+Z:\Desktop\BankAccountApp\BankAccountApp\obj\Debug\net8.0\ref\BankAccountApp.dll
